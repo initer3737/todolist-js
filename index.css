@@ -1,0 +1,17 @@
+.dak {
+    background: black;
+    color: white;
+}
+
+.footer ul{
+    display: flex;
+    align-items:flex-start;
+    margin: 100px 20px;
+}
+.footer li{
+    margin: 0 5%;
+}
+
+li{
+    list-style: none;
+}
